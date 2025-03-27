@@ -14,3 +14,9 @@ podemos llegar a concluir algo estructural de los problemas presentados por Gett
 Godel afirma y demuestra que todo sistema axiomatico que dependa de la aritmética es incompleto, queriendo decir que hay cosas en matemáticas que no se pueden demostrar, son independientes del marco axiomatico. Quiero redoblar la apuesta, mostrando que en ningún sistema con elementos primitivos puede ser completo, esto porque los elementos primitivos dependen de cada marco y nunca se podrá tener una definición exacta de estos conceptos que puedan agotar todo lo que se puede decir del mismo
 
 Si todo esta en un marco, podemos repensar el como trabajamos con las inteligencias artificiales, en vez de usar la estadistica y la probabilidad en las redes neuronales podemos añadir a la ecuacion la teoria de categorias que dará un marco para trabajar las relaciones de los datos. Igual al tener informacion contextual se podria hacer que la traducción sea mas sencilla, ya que tiene los marcos sociales y culturales de cada idioma. No solo se queda en esto el uso de teoria de categorias: si tomamos cada rama del conocimiento y cada pensamiento como perteneciente a algún marco, podemos restringir a marcos enteros a dicha ia para que no reproduzca valores que no queremos o que llegue a conceptos problematicos. Además al tener las categorias relacionadas con conjunto de neuronas podriamos entender mejor como funcionan
+
+El hecho de que todo este en un marco hace que los conceptos trascendentes sea inaccesibles. No hay forma de abarcarlos con los conceptos humanos.
+
+Dios es inaccesible a los humanos, incluso si se dice que se sabe de dios mediante la fe, esta cae en un marco terrenal por ser la fe un constructo humano
+
+Las IAs no pueden sobrepasar lo humano porque aunque no tengan nuestras limitaciones conceptuales, estan hechas para pensar con nuestros marcos y por tanto no podran salir de ellos
