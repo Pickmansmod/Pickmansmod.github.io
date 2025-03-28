@@ -1,6 +1,6 @@
 ---
 title: Tipos de marcos y sus relaciones
-Author: Jorge Enrique Hernandez Ceme
+author: Jorge Enrique Hernandez Ceme
 ---
 
 ### 1. **Marcos Personales**
