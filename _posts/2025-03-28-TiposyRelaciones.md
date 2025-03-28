@@ -1,4 +1,4 @@
-----
+---
 title: Tipos de marcos y sus relaciones
 Author: Jorge Enrique Hernandez Ceme
 ---
