@@ -96,6 +96,7 @@ _"En vez de usar la estadística y la probabilidad en las redes neuronales podem
 - Introducir la teoría de categorías en IA permitiría **modelar los marcos semánticos** de forma más precisa, estableciendo relaciones más ricas entre datos.
 - Esto permitiría **capturar correspondencias conceptuales complejas** que la estadística actual no puede modelar.
 - Además, **haría las IA más interpretables**, ya que las categorías representan relaciones explícitas, no solo correlaciones opacas.
+- Si usamos teoria de categorias podríamos hacer mas facil la traduccion de codigo. Esto anidando categorias y haciendo bloques de equivalencia entre los distintos lenguajes y paradigmas
 
 ---
 
