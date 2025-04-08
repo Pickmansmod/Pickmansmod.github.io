@@ -1,3 +1,24 @@
+# Autofragmenos
+
+> **Autofragmenos** es una teoría personal sobre cómo se genera el conocimiento, qué factores lo moldean y cómo nuestras percepciones están influenciadas por diversos marcos de referencia mentales.
+
+> **Autofragmenos** is a personal theory about how knowledge is generated, what factors shape it, and how our perceptions are influenced by various mental frameworks.
+
+---
+
+> 📄 **Licencias**  
+> Este proyecto usa dos licencias:
+> - **Código**: Licencia MIT (ver [`LICENSE`](./LICENSE))  
+> - **Contenido** (posts, textos, imágenes): Licencia Creative Commons [BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (ver [`CONTENT_LICENSE.md`](./CONTENT_LICENSE.md))
+
+> 📄 **Licenses**  
+> This project uses two licenses:
+> - **Code**: MIT License (see [`LICENSE`](./LICENSE))  
+> - **Content** (posts, texts, images): Creative Commons [BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) (see [`LICENSE-CONTENT.md`](./LICENSE-CONTENT.md))
+
+
+
+
 # [TeXt Theme](https://github.com/kitian616/jekyll-TeXt-theme)
 
 [![license](https://img.shields.io/github/license/kitian616/jekyll-TeXt-theme.svg)](https://github.com/kitian616/jekyll-TeXt-theme/blob/master/LICENSE)
